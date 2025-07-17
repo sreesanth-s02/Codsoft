@@ -6,8 +6,9 @@ st.title("🚢 Titanic Survival Prediction")
 st.markdown("Choose a model and enter passenger details to predict survival.")
 
 # Load models
-rf_model = joblib.load("rf_model.pkl")
-logreg_model = joblib.load("logreg_model.pkl")
+rf_model = joblib.load("Task-1-Titanic-App/rf_model.pkl")
+logreg_model = joblib.load("Task-1-Titanic-App/logreg_model.pkl")
+
 
 # Model selector
 model_choice = st.selectbox("Select Model", ["Random Forest", "Logistic Regression"])
