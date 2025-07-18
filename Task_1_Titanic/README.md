@@ -11,10 +11,10 @@ This project aims to predict whether a passenger survived the Titanic disaster u
 
 📁 Folder Structure
 
-CODSOFT-DataScience-Internship/
+CODSOFT/
 ├── Task_1_Titanic/
-│ ├── Titanic_EDA_Model.ipynb
-│ ├── titanic.csv
+│ ├── Task1_Titanic_EDA_Model.ipynb
+│ ├── Titanic_Dataset.csv
 │ ├── model_output.png
 │ └── README.md
 
