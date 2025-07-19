@@ -8,14 +8,14 @@ This project predicts the **rating of a movie** based on features like genre, di
 CODSOFT/  
 ├── Task_2_MovieRating/  
 │   ├── Task2_MovieRating_EDA_Model.ipynb  
-│   ├── ratings.csv  
+│   ├── IMDb Movies India.csv  
 │   ├── model_comparison_plot.png   
 │   └── README.md  
 
 🧠 Workflow & Task Structure  
 
 📚 Data Loading  
-Loaded the movie ratings dataset (IMDB Indian Movies.csv) using encoding='atin1.
+Loaded the movie ratings dataset (IMDb Movies India.csv) using encoding='atin1.
 
 🧹 Data Cleaning  
 - Checked for null values, duplicates, and inconsistencies  
