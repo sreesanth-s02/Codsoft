@@ -6,11 +6,12 @@ This project predicts the **rating of a movie** based on features like genre, di
 
 📁 Folder Structure  
 CODSOFT/  
-├── Task_2_MovieRating/  
-│   ├── Task2_MovieRating_EDA_Model.ipynb  
+├── Task_2_MovieRating/   
 │   ├── IMDb Movies India.csv  
+│   └── README.md
+│   ├── Task2_MovieRating_EDA_Model.ipynb 
 │   ├── model_output2.png   
-│   └── README.md  
+ 
 
 🧠 Workflow & Task Structure  
 
