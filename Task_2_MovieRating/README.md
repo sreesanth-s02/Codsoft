@@ -9,14 +9,13 @@ CODSOFT/
 ├── Task_2_MovieRating/  
 │   ├── Task2_MovieRating_EDA_Model.ipynb  
 │   ├── ratings.csv  
-│   ├── model_comparison_plot.png  
-│   ├── user_input_prediction.png  
+│   ├── model_comparison_plot.png   
 │   └── README.md  
 
 🧠 Workflow & Task Structure  
 
 📚 Data Loading  
-Loaded the movie ratings dataset (`ratings.csv`) using `encoding='latin1'`.
+Loaded the movie ratings dataset (IMDB Indian Movies.csv) using encoding='atin1.
 
 🧹 Data Cleaning  
 - Checked for null values, duplicates, and inconsistencies  
