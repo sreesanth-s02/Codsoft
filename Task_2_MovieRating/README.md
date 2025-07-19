@@ -9,7 +9,7 @@ CODSOFT/
 ├── Task_2_MovieRating/  
 │   ├── Task2_MovieRating_EDA_Model.ipynb  
 │   ├── IMDb Movies India.csv  
-│   ├── model_comparison_plot.png   
+│   ├── model_output.png   
 │   └── README.md  
 
 🧠 Workflow & Task Structure  
