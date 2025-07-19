@@ -13,10 +13,11 @@ This project aims to predict whether a passenger survived the Titanic disaster u
 
 CODSOFT/
 ├── Task_1_Titanic/
+│ └── README.md
 │ ├── Task1_Titanic_EDA_Model.ipynb
 │ ├── Titanic_Dataset.csv
 │ ├── model_output.png
-│ └── README.md
+
 
 ---
 
