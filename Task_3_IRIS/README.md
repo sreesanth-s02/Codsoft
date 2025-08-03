@@ -16,8 +16,8 @@ This classification task was completed under the **CodSoft August Batch - Data S
 
 ## 📁 Folder Structure  
 CODSOFT/
-├── Task3_IRIS/
-│ ├── iris.csv
+├── Task_3_IRIS/
+│ ├── IRIS.csv
 │ ├── Task3_Iris.ipynb
 │ ├── user_prediction.png
 │ └── README.md
