@@ -80,7 +80,7 @@ These scores indicate a **very good fit**, as expected with synthetic data.
 
 ## 📸 Output
 
-The final **sales prediction output** is available as a **PNG image** (sales_prediction_output.png) inside the project folder. This shows manual user input's output
+The final **sales prediction output** is available as a **PNG image** inside the project folder. This shows manual user input's output as well as shows predicted vs actual values in graphical form.
 
 ---
 
