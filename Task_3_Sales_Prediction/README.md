@@ -1,6 +1,6 @@
 # 📈 Sales Prediction using Linear Regression
 
-This project predicts product sales based on advertising spend across TV, Radio, and Newspaper channels. As part of the CodSoft Data Science Internship (Task 4), we created and used a **synthetic dataset** to build and evaluate the model.
+This project predicts product sales based on advertising spend across TV, Radio, and Newspaper channels. As part of the CodSoft Data Science Internship (Task 3), we created and used a **synthetic dataset** to build and evaluate the model.
 
 ---
 
@@ -84,15 +84,3 @@ The final **sales prediction output** is available as a **PNG image** (`sales_pr
 
 ---
 
-## 📈 Example Predictions
-
-You can manually enter advertising spends and get predicted sales:
-
-```python
-tv = 150.0
-radio = 25.0
-newspaper = 30.0
-
-input_features = np.array([[tv, radio, newspaper]])
-predicted_sales = lin_reg.predict(input_features)
-print("Predicted Sales:", predicted_sales[0])
