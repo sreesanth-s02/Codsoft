@@ -1,6 +1,6 @@
 # 📈 Sales Prediction using Linear Regression
 
-This project predicts product sales based on advertising spend across TV, Radio, and Newspaper channels. As part of the CodSoft Data Science Internship (Task 3), we created and used a **synthetic dataset** to build and evaluate the model.
+This project predicts product sales based on advertising spend across TV, Radio, and Newspaper channels. As part of the CodSoft Data Science Internship , we created and used a **synthetic dataset** to build and evaluate the model.
 
 ---
 
@@ -80,7 +80,7 @@ These scores indicate a **very good fit**, as expected with synthetic data.
 
 ## 📸 Output
 
-The final **sales prediction output** is available as a **PNG image** (`sales_prediction_output.png`) inside the project folder. This shows predicted vs actual values in graphical form.
+The final **sales prediction output** is available as a **PNG image** (sales_prediction_output.png) inside the project folder. This shows manual user input's output
 
 ---
 
