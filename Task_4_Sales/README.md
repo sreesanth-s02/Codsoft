@@ -83,7 +83,3 @@ These scores indicate a **very good fit**, as expected with synthetic data.
 The final **sales prediction output** is available as a **PNG image** inside the project folder. This shows user prediction as well as predicted vs actual values in graphical form.
 
 ---
-
-
-predicted_sales = lin_reg.predict(input_features)
-print("Predicted Sales:", predicted_sales[0])
